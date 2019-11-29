@@ -1,0 +1,28 @@
+{
+  "name": "superbal_api",
+  "version": "1.0.0",
+  "description": "SuperPark Superball",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzpasion/Superbal_API.git"
+  },
+  "author": "Zyrel Pasion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jzpasion/Superbal_API/issues"
+  },
+  "homepage": "https://github.com/jzpasion/Superbal_API#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "multer": "^1.4.2",
+    "path": "^0.12.7",
+    "xml2js": "^0.4.22"
+  }
+}
